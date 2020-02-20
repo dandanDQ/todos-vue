@@ -1,11 +1,26 @@
 # todos
 
 ### Introduction
-
-- Add todos to the **calender**, indicating the **start time and finish time**, which is useful to arrange your schedule. 
-- See your todos in a list, and tick tho one you have finished,you will get your **progress** in the progress-bar.
-- You can choose the **event color** by clicking the palette icon.
 - A demo to practice Vue2, Vue CLI3, Vue router, Vuex, Vuetify, webpack and so on.
+
+- A useful calendar view to arrange your schedule.
+
+<img src="media/03.JPG">
+
+- Add todos to the **calender**, indicating the **start time and finish time**. 
+
+<img src="media/02.png">
+
+- You can choose the **event color** by clicking the palette icon.
+
+<img src="media/01.png">
+
+
+
+- See your todos in a list, and tick tho one you have finished,you will get your **progress** in the progress-bar.
+
+<img src="media/04.JPG">
+
 
 
 ### Setup
