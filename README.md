@@ -5,20 +5,19 @@
 
 - A useful calendar view to arrange your schedule.
 
-![](https://github.com/dandanDQ/todos-vue/tree/master/media/03.JPG)
+<img src="media/03.JPG">
 
 - Add todos to the **calender**, indicating the **start time and finish time**. 
 
-![](https://github.com/dandanDQ/todos-vue/tree/master/media/02.png)
+<img src="media/02.png">
 
 - You can choose the **event color** by clicking the palette icon.
 
-![](https://github.com/dandanDQ/todos-vue/tree/master/media/01.png)
+<img src="media/01.png">
 
 - See your todos in a list, and tick tho one you have finished,you will get your **progress** in the progress-bar.
 
-![](https://github.com/dandanDQ/todos-vue/tree/master/media/04.JPG)
-
+<img src="media/04.JPG">
 
 ### Setup
 ```bash
